@@ -214,21 +214,7 @@ python test_graph_compatibility.py --graph ./output/structure_graph.pt
 | 加速度 | mm/s² |
 | 位移 | mm |
 
-## 引用
 
-如果本工具对您的研究有帮助，请引用原始 GNN-LSTM 论文：
-
-```bibtex
-@article{kuo2024gnn,
-  title={GNN-LSTM-based fusion model for structural dynamic responses prediction},
-  author={Kuo, Po-Chih and Chou, Yuan-Tung and Li, Kuang-Yao and Chang, Wei-Tze and Huang, Yin-Nan and Chen, Chuin-Shan},
-  journal={Engineering Structures},
-  volume={306},
-  pages={117733},
-  year={2024},
-  publisher={Elsevier}
-}
-```
 
 ## License
 
